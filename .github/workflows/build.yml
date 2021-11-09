@@ -27,7 +27,7 @@ jobs:
         working-directory: ./
         run: |
           npm install
-          npm run build:prop
+          npm run build:prod
       - name: Deploy GitHubPage
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
