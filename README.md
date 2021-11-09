@@ -4,7 +4,10 @@
 
 项目使用的 API接口 基于开源项目  **[OneKey-Java](https://github.com/funnyzak/onekey-java)** 。
 
-演示地址： [oconsole.niuqi.cc](http://oconsole.niuqi.cc)
+- 演示地址： [oconsole.niuqi.cc](http://oconsole.niuqi.cc)
+- GitHubPage: [https://funnyzak.github.io/onekey-vue-admin](https://funnyzak.github.io/onekey-vue-admin)
+
+[![演示](./public/_docs/assets/img/demo.gif)](https://funnyzak.github.io/onekey-vue-admin)
 
 ---
 
