@@ -1,5 +1,5 @@
 {
-  "name": "onekey-admin",
+  "name": "onekey-vue-admin",
   "version": "1.0.0",
   "description": "A general background management system based on vue-element-admin 4.2.1.",
   "author": "Leon <silenceace@gmail.com>",
@@ -37,10 +37,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://gitee.com/funnyzak/onekey-admin.git"
+    "url": "git+https://gitee.com/funnyzak/onekey-vue-admin.git"
   },
   "bugs": {
-    "url": "https://gitee.com/funnyzak/onekey-admin/issues"
+    "url": "https://gitee.com/funnyzak/onekey-vue-admin/issues"
   },
   "dependencies": {
     "axios": "^0.19.0",

@@ -1,4 +1,4 @@
-# OneKey-Admin [![Release Version](https://img.shields.io/github/release/funnyzak/onekey-admin.svg)](https://github.com/funnyzak/onekey-admin/releases/latest) [![Latest Release Download](https://img.shields.io/github/downloads/funnyzak/onekey-admin/latest/total.svg)](https://github.com/funnyzak/onekey-admin/releases/latest) [![Total Download](https://img.shields.io/github/downloads/funnyzak/onekey-admin/total.svg)](https://github.com/funnyzak/onekey-admin/releases)
+# OneKey-VUE-Admin [![Release Version](https://img.shields.io/github/release/funnyzak/onekey-vue-admin.svg)](https://github.com/funnyzak/onekey-vue-admin/releases/latest) [![Latest Release Download](https://img.shields.io/github/downloads/funnyzak/onekey-vue-admin/latest/total.svg)](https://github.com/funnyzak/onekey-vue-admin/releases/latest) [![Total Download](https://img.shields.io/github/downloads/funnyzak/onekey-vue-admin/total.svg)](https://github.com/funnyzak/onekey-vue-admin/releases)
 
 基于 [vue-element-admin 4.2.1](https://github.com/PanJiaChen/vue-element-admin) 开发的通用后台管理系统。
 
@@ -13,10 +13,10 @@
 ```bash
 
 # 克隆项目
-git clone -b master git@github.com:funnyzak/onekey-admin.git
+git clone -b master git@github.com:funnyzak/onekey-vue-admin.git
 
 # 进入文件夹
-cd onekey-admin
+cd onekey-vue-admin
 
 # 安装依赖：建议使用 node=>v 10.13.1，避免依赖冲突
 npm install
@@ -27,7 +27,7 @@ npm run dev
 
 This will automatically open http://localhost:2081
 
-## Build
+## 构建
 
 ```bash
 # 测试环境
@@ -37,7 +37,7 @@ npm run build:stage
 npm run build:prod
 ```
 
-## Advanced
+## 进一步
 
 ```bash
 
