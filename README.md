@@ -7,7 +7,7 @@
 - 演示地址： [oconsole.niuqi.cc](http://oconsole.niuqi.cc)
 - GitHubPage: [https://funnyzak.github.io/onekey-vue-admin](https://funnyzak.github.io/onekey-vue-admin)
 
-[![演示](./public/_docs/assets/img/demo.gif)](https://funnyzak.github.io/onekey-vue-admin)
+[![演示](.docs/assets/img/demo.gif)](https://funnyzak.github.io/onekey-vue-admin)
 
 ---
 
@@ -61,7 +61,7 @@ npm run lint -- --fix
 
 ## 赞赏
 
-![赞赏](./public/_docs/assets/img/coffee.png)
+![赞赏](.docs/assets/img/coffee.png)
 
 ## Author
 
